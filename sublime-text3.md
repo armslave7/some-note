@@ -1,4 +1,4 @@
-# 自己使用sublime text的插件和配置
+# sublime text的一些插件和配置
 
 ## package control
 
@@ -142,3 +142,6 @@ package control必备
 
 插入时间的插件，设置非常简单，需要修改格式可以查看其文档
 修改快捷键只需要在*key bindings*中设置即可
+
+
+
