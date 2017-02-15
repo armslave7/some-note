@@ -2,18 +2,18 @@
 
 atom使用apm管理安装的包 只要设置了apm的代理即可，参见github->apm[主页](https://github.com/atom/apm#behind-a-firewall)
 
-```
-Behind a firewall?
 
-If you are behind a firewall and seeing SSL errors when installing packages you can disable strict SSL by running:
+>Behind a firewall?
 
-apm config set strict-ssl false
-Using a proxy?
+>If you are behind a firewall and seeing SSL errors when installing packages you can disable strict SSL by running:
 
-If you are using a HTTP(S) proxy you can configure apm to use it by running:
+>apm config set strict-ssl false
+>Using a proxy?
 
-apm config set https-proxy https://9.0.2.1:0
-```
+>If you are using a HTTP(S) proxy you can configure apm to use it by running:
+
+>apm config set https-proxy https://9.0.2.1:0
+
 
 我使用了xx-net，为http代理，所以应为`apm config set https-proxy http://127.0.0.1:8087`
 
