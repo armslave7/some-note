@@ -1,0 +1,4 @@
+--------------------
+GITHUB TOKEN: 39aacd9935f43757a0d144abb976da60943a9dbc
+GITHUB GIST: b6b8bf0e5cf6867efca96bf0150b8d0a
+GITHUB GIST TYPE: Secret
